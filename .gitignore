@@ -1,6 +1,12 @@
 # Generated package; publish through GitHub Releases only when needed.
 yiran-qipao-live-clips-skill.zip
 
+# Local GitHub CLI installer and portable extraction.
+.gh-portable/
+gh_*_checksums.txt
+gh_*_windows_*.msi
+gh_*_windows_*.zip
+
 # Common local and editor artifacts.
 .DS_Store
 Thumbs.db
