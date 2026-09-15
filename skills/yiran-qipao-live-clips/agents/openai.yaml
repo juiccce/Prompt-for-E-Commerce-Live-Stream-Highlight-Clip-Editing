@@ -1,0 +1,4 @@
+interface:
+  display_name: "一然旗袍直播切片"
+  short_description: "一然旗袍直播切片、字幕、配乐与封面工作流"
+  default_prompt: "请使用 $yiran-qipao-live-clips 按一然旗袍已验收标准处理本次直播素材。"

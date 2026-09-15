@@ -1,0 +1,16 @@
+# Generated package; publish through GitHub Releases only when needed.
+yiran-qipao-live-clips-skill.zip
+
+# Common local and editor artifacts.
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.log
+*.bak
+*.swp
+*~
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
