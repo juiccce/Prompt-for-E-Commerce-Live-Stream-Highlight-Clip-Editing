@@ -1,7 +1,7 @@
 # Prompt-for-E-Commerce-Live-Stream-Highlight-Clip-Editing
 This is a prompt document for editing e-commerce women's cheongsam live-stream sales videos using GPT with embedded Codex. It contains keyword prompts for the new Chinese style, as well as listed prompts for cheongsam selling points.
 
-## 一然旗袍可复用剪辑指令
+## 女装带货切片短视频可复用剪辑指令
 
 版本日期：2026-09-13。内容整理自品牌对话、白月光试剪与用户反馈；本仓库保存可复用提示词，不是完整聊天备份。
 
@@ -15,7 +15,7 @@ This is a prompt document for editing e-commerce women's cheongsam live-stream s
 
 下载本仓库，准备本机视频和BGM素材，并将下面启动指令交给助手：
 
-> 请先读取本仓库prompts目录中的《直播切片总指令》《字幕与BGM操作指令》《封面设计指令》，按最新已验收标准继续“一然旗袍”项目。本次产品为〈产品名称〉，素材位于〈本机素材路径〉，BGM库位于〈本机音乐文件夹〉，输出到〈输出路径〉；数量为〈数量，默认3–5条〉，每条〈默认17–27秒〉。请先确认本机素材可读、指定字体可用、剪映字号11校准依据可靠，再制作。字幕固定X=0、Y=-300；无法取得字体或校准依据时说明缺项，不猜测替换。需要封面时另按封面指令执行，区分正式验收值与参考估测值。
+> 请先读取本仓库prompts目录中的《直播切片总指令》《字幕与BGM操作指令》《封面设计指令》，按最新已验收标准继续“女装带货切片”项目。本次产品为〈产品名称〉，素材位于〈本机素材路径〉，BGM库位于〈本机音乐文件夹〉，输出到〈输出路径〉；数量为〈数量，默认3–5条〉，每条〈默认17–27秒〉。请先确认本机素材可读、指定字体可用、剪映字号11校准依据可靠，再制作。字幕固定X=0、Y=-300；无法取得字体或校准依据时说明缺项，不猜测替换。需要封面时另按封面指令执行，区分正式验收值与参考估测值。
 
 ### 已验收与待校准
 
